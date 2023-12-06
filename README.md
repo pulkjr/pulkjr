@@ -1,5 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Joseph
 
+
+Contact me on:
+
+<a href="https://www.linkedin.com/in/joseph-p-93593118/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
+## 👩‍💻 About Me
+
+- I've been in IT for over 20 years
+- I'm currently working as a Professional Services Consultant with NetApp
+- I enjoy automating my day to day
 <!--
 **pulkjr/pulkjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
